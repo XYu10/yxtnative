@@ -1,0 +1,20 @@
+Name: Items
+Type: FolderType
+Children:
+- Name: SpinBox1
+  Type: ObjectLibraryItem
+  Children:
+  - Name: SpinBox1
+    Id: g=d9786c9ea503bf73b5bc33855e01fd75
+    Supertype: SpinBox
+    ReferenceType: HasComponent
+    Children:
+    - Name: Value
+      Type: BaseDataVariableType
+      DataType: Double
+      Value: 0.0
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 80.0
