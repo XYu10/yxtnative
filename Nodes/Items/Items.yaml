@@ -18,3 +18,10 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 80.0
+- Name: NewNetLogic1
+  Type: ObjectLibraryItem
+  Children:
+  - Name: NewNetLogic1
+    Id: g=16bd75d7695321d3624e265def325a26
+    Supertype: NetLogic
+    ReferenceType: HasComponent

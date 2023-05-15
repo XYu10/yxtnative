@@ -21,5 +21,9 @@ Project:
    Uri: 'urn:FTOptix:UI'
    Module: FTOptix.UI
    Version: 1.0
+  6:
+   Uri: 'urn:FTOptix:NetLogic'
+   Module: FTOptix.NetLogic
+   Version: 1.0
  Nodes:
  - File: Nodes/yxtnative.yaml
